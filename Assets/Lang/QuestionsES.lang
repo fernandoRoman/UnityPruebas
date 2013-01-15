@@ -1,0 +1,9 @@
+
+<!-- Preguntas basicas -->
+
+<String id="q1-1">Pregunta 1:</String>
+<String id="q1-2">¿Te gustan los robots?</String>
+<String id="q1r1">-¡Si, molan mucho!</String>
+<String id="q1r2">-No, la verdad</String>
+<String id="q1r3">-No se, nunca lo había pensado</String>
+<String id="q1r4">-Eres idiota.</String>

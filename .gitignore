@@ -1,0 +1,8 @@
+Temp
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+*.meta
+Assets/Editor
+Library
